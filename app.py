@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 
 st.set_page_config(page_title="Calculadora de Riesgo APO Severo", layout="centered")
-st.title("🧬 Calculadora de Riesgo de APO Severo (PROMISSE)")
+st.title("🧬 Calculadora de Riesgo de APO Severo (PROMISSE) Hospital de Liberia")
 st.markdown("Basado en: Kim et al. *AJOG* 2016 - Modelo de regresión logística")
 
 st.header("🔢 Ingrese los valores clínicos:")
